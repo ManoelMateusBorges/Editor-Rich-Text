@@ -4,11 +4,15 @@
   "description": "Editor de Rich Text",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "config:ts": "tsc -init",
+    "build": "tsc",
+    "watch": "tsc -w"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+  },
+  "devDependencies": {
     "typescript": "^4.9.3"
   }
 }

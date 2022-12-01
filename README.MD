@@ -15,8 +15,3 @@
 1.   [] Planejamento
 2.   [] Desenvolvimento
 3.   [] Teste
-
-![smile](./images/smile.png)
-
-
-
